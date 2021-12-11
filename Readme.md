@@ -7,6 +7,8 @@ Tech:
 
 Aim:
 
+I can simply make use of webview for say in any apk or iso platform site.
+
 Use web3 to boost this technology to every market.
 
 Happy sellers and customers.
